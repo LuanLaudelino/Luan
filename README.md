@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luan Laudelino
+# 👋 Olá! Eu sou o Luan Laudelino Dos Santos
 
 Bem-vindo ao meu primeiro projeto no GitHub!  
 Atualmente estou cursando faculdade e este repositório é parte da minha jornada de aprendizado em desenvolvimento de software.
